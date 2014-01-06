@@ -116,7 +116,7 @@ elseif (UNIX)
 
         # Disable warnings from XPM files.
 
-        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wno-write-strings")
+        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O2 -Wno-write-strings")
 
         # Disable warnings from printf/sprintf.
 

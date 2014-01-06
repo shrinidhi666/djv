@@ -35,7 +35,7 @@
 #define DJV_USER_H
 
 #include <djv_string.h>
-
+#include <stdlib.h>
 namespace djv
 {
 

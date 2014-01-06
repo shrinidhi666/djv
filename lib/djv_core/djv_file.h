@@ -37,7 +37,7 @@
 #include <djv_debug.h>
 #include <djv_seq.h>
 #include <djv_set.h>
-
+#include <stdlib.h>
 namespace djv
 {
 
